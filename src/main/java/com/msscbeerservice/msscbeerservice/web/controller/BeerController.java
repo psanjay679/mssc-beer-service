@@ -1,6 +1,5 @@
 package com.msscbeerservice.msscbeerservice.web.controller;
 
-
 import com.msscbeerservice.msscbeerservice.web.models.BeerDto;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
