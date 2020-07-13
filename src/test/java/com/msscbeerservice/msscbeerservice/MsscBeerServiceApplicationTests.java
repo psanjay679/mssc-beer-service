@@ -9,7 +9,4 @@ class MsscBeerServiceApplicationTests {
     @Test
     void contextLoads() {
     }
-
-
-
 }
